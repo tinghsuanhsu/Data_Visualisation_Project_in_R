@@ -1,8 +1,11 @@
 # Data_Visualisation_Project_in_R
 
+https://tinghsu.shinyapps.io/indegoapp/
+
 This R Shiny visualisation project aims to communicate analysis and insights of over 1.4 million trip data that were recorded by Indego bike share system from 2016 to 2017.
 Analysis includes ridership, travel patterns, factors behind station popularity after combining trip data with historical weather, geographical information, and local events. 
 Text-based analysis is provided for each topic and supported by interactive visualisations.
+
 
 
 ## Data Source
