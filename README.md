@@ -25,4 +25,6 @@ for web deployment.
 
 ## Screenshots of the Shiny app
 
-https://drive.google.com/file/d/1x60cHtQxjf46tVmFXZhRWRfq2fnkCoMa/view?usp=sharing
+![image](https://drive.google.com/uc?export=view&id=1x60cHtQxjf46tVmFXZhRWRfq2fnkCoMa)
+
+![image](https://drive.google.com/uc?export=view&id=1bsvlikdFYjv3WQwFIp80BEXmvXVcBCN-)
