@@ -22,3 +22,7 @@ defined plots. This method separates interface and server from data and helper f
 for web deployment.
 - ui.r : contains codes for the Shiny user interface (load “source(helper.r)” at the start).
 - server.r : contains codes for the Shiny server that listens for inputs and outputs.
+
+## Screenshots of the Shiny app
+
+https://drive.google.com/file/d/1x60cHtQxjf46tVmFXZhRWRfq2fnkCoMa/view?usp=sharing
